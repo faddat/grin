@@ -10,7 +10,7 @@ workspace = ".."
 publish = false
 
 [dependencies]
-hyper = "0.12"
+hyper = "0.14"
 futures = "0.1"
 http = "0.1"
 hyper-staticfile = "0.3"
